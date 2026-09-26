@@ -49,3 +49,21 @@ li {
 .center-text {
     text-align: center; 
 }
+
+.iframe-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.Sweet-Images {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.Strawberry-Shortcake {
+    max-width: 150px;
+    height: 150px;
+}
