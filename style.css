@@ -1,0 +1,51 @@
+body {
+    background-color: #FF7518;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-family: Georgia;
+    font-style: oblique;
+}
+
+li {
+    font-family: Times;
+}
+
+.Table-of-Contents {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.cute-side-image {
+    max-width: 150px;
+    height: 150px;
+}
+
+.image-text-box {
+    display: inline-block;
+}
+
+.image-text-box img{
+    display: block;
+    max-width: 100%;
+}
+
+.image-link {
+    display: block;
+    margin-top: 8px;
+    text-decoration: none;
+    color: blue;
+}
+
+.center-text {
+    text-align: center; 
+}
